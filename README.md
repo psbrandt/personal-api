@@ -1,4 +1,3 @@
-psbrandt-api
-============
+# Personal API
 
-My personal API.
+An API to manage personal data.
